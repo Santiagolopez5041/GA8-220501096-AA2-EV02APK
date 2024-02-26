@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918126175846",
+    "project_id": "patologos2024",
+    "storage_bucket": "patologos2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918126175846:android:b6cff2cc66345059206fa7",
+        "android_client_info": {
+          "package_name": "com.mycompany.patologosauthen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPu9xf47glQwkAkr2EMna9CRUoq-gmQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
